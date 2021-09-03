@@ -1,2 +1,3 @@
-# revolt.rs
-An API wrapper for revolt
+# Revolt.rs
+
+An API wrapper for [Revolt](https://revolt.chat)
